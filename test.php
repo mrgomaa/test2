@@ -1,3 +1,5 @@
 <?php
-echo "test gomaa";
+function test(){
+	echo "hello from gomaa";
+}
 ?>
